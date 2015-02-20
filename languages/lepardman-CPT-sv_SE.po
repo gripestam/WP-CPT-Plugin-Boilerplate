@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: lepardman Custom post types\n"
+"POT-Creation-Date: 2015-02-20 11:08+0100\n"
+"PO-Revision-Date: 2015-02-20 11:10+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: lepardman-cpt.php:27 lepardman-cpt.php:38
+msgid "Books"
+msgstr "Böcker"
+
+#: lepardman-cpt.php:28
+msgid "Book"
+msgstr "Bok"
+
+#: lepardman-cpt.php:29
+msgid "Add new"
+msgstr "Lägg till"
+
+#: lepardman-cpt.php:30
+msgid "Add new book"
+msgstr "Lägg till ny bok"
+
+#: lepardman-cpt.php:31
+msgid "Edit book"
+msgstr "Ändra bok"
+
+#: lepardman-cpt.php:32
+msgid "New book"
+msgstr "Ny bok"
+
+#: lepardman-cpt.php:33
+msgid "Show book"
+msgstr "Visa bok"
+
+#: lepardman-cpt.php:34
+msgid "Search books"
+msgstr "Sök bok"
+
+#: lepardman-cpt.php:35
+msgid "No books found"
+msgstr "Inga böcker hittades"
+
+#: lepardman-cpt.php:36
+msgid "No books found in trash"
+msgstr "Inga böcker hittades i papperskorgen"
+
+#: lepardman-cpt.php:37
+msgid "Parent book:"
+msgstr "Föräldrabok:"
+
+#: lepardman-cpt.php:43
+msgid "Book example post type"
+msgstr "Bok, posttypsexempel"

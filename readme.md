@@ -1,0 +1,1 @@
+Boilerplate plugin for registering custom post types in WordPress
